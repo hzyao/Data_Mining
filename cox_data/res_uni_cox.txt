@@ -1,0 +1,5 @@
+p.value	HR (95% CI)
+Gender	0.13	1.2 (0.94-1.6)
+Age	2.1e-42	1.1 (1.1-1.1)
+IDH_status	9.6e-57	9.7 (7.3-13)
+MGMT_promoter_status	7.2e-18	3.3 (2.5-4.3)
